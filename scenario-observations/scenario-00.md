@@ -12,9 +12,18 @@ This scenario therefore provides a baseline for observing how the participating 
 
 ## My prediction
 
-Before reviewing the Scenario 0 result, I expected NyayaSetu to focus on its court-administration responsibilities and identify the information required for effective court operations.
+No separate pre-result prediction was recorded before reviewing the Scenario 0 episode. Therefore, I am not presenting a retrospective expectation as an original prediction.
 
-I expected NyayaSetu to avoid making substantive conclusions because no case facts or evidence had been provided. I also expected the agent to recognize the need for coordination with other roles when their information requirements overlapped.
+For comparison with the observed behavior, the initial design-based expectation was that NyayaSetu would identify information needs relevant to effective court operations, remain within its administrative role, and avoid unsupported conclusions.
+
+These expectations are derived from the intended role of NyayaSetu and should not be interpreted as a prediction recorded before the episode.
+
+## Prediction versus observation
+
+- **Prediction status:** No separate prediction was recorded before reviewing the episode.
+- **Design-based expectation:** NyayaSetu would identify information needs for effective court operations.
+- **Observed behavior:** The Decision Timeline recorded a proposed action to identify information needs for effective court operations.
+- **Interpretation:** The observed action is consistent with the design-based expectation. However, because the scenario provided no substantive case facts or evidence, this observation alone does not establish consistent role adherence across more complex scenarios.
 
 ## What the participating agents did
 
